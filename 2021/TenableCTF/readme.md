@@ -1,5 +1,17 @@
 # Tenable CTF ![concatenation method](Tenable-CTF.png)
 
+|Standing|Points|
+|:------:|:----:|
+|111/1762|2975 pts|
+
+### Members
+
+- inho28
+- backwash
+- gecko2308
+- gverre
+- PainfulByte
+
 |Category| Challenge Name | Points |
 |:------:|:--------------:|:------:|
 |Code|Hello ${name}|25 pts|
