@@ -1,5 +1,7 @@
 # SETI
 
+tags: stego, wav, minimodem
+
 minimodem: 
 
 ```minimodem -r 300 -f tx.wav```
