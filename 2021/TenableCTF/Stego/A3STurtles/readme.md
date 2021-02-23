@@ -11,3 +11,4 @@ output :
 ![concatenation method](key.png)
 ## AES Decrypt
 
+![concatenation method](flag.png)
