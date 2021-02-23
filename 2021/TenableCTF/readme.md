@@ -37,6 +37,7 @@
 |Stego|Hackerman|25 pts|
 |Stego|Numerological|100 pts|
 |Stego|[A3S Turtles](Stego/A3STurtles/readme.md)|250 pts|
+|Stego|[SETI](Stego/SETI/readme.md)| pts|
 |Tenable|The ultimate mutant marvel team-up|25 pts|
 |Tenable|Knowledge is knowing a tomato is a fruit|25 pts|
 |Web App|Stay Away Creepy Crawlers|25 pts|
