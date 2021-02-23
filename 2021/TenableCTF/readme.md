@@ -22,7 +22,6 @@
 |Crypto|Easy Peasy|50 pts|
 |Crypto|Classic Crypto|50 pts|
 |Forensics|H4ck3r_m4n exp0sed! 1-2|25 pts|
-|Forensics| |
 |Misc|Esoteric|25 pts|
 |Misc|Quit messing with my flags|25 pts|
 |Misc|Broken QR|100 pts|
@@ -33,7 +32,6 @@
 |OSINT|We're watching you|75 pts|
 |Reverse Engineering|The only tool you'll ever need|25 pts|
 |Reverse Engineering|Pwntown 1-2-3-4|200 pts|
-|Reverse Engineering| |
 |Stego|Weird Transmission|175 pts|
 |Stego|Easy Stego|25 pts|
 |Stego|Hackerman|25 pts|
