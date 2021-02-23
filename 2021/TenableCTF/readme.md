@@ -29,6 +29,7 @@
 |Misc|One Byte at a Time|50 pts|
 |Misc|Forwards from Grandma|100 pts|
 |Misc|Reggie McRegex|25 pts|
+|Misc|Not JSON|75 pts|
 |OSINT|We're watching you|75 pts|
 |Reverse Engineering|The only tool you'll ever need|25 pts|
 |Reverse Engineering|Pwntown 1-2-3-4|200 pts|
