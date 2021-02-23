@@ -1,6 +1,6 @@
 # SETI
 
-### Tags stego, wav, minimodem
+### Tags: stego, wav, minimodem
 
 
 minimodem: 
