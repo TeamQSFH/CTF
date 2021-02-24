@@ -39,7 +39,7 @@
 |Misc|Forwards from Grandma|100 pts|
 |Misc|Broken QR|100 pts|
 |Misc|I have a dream|100 pts|
-|Misc|[SETI](Stego/SETI/readme.md)|150 pts|
+|Misc|[SETI](Misc/SETI/readme.md)|150 pts|
 |OSINT|We're watching you|75 pts|
 |Pwn|Queen's Gambit|125 pts|
 |Pwn|Gambit's Queens|200 pts|
