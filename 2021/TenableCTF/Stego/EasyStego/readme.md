@@ -1,4 +1,4 @@
 # Easy Stego
 
 
-![concatenation method](easystego.png)
+![concatenation method](easy-stego.png)
