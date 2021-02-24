@@ -64,7 +64,7 @@
 |Tenable|It's twice as hard|100 pts|
 |Tenable|Supercession|250 pts|
 |Vidya|Play me|200 pts|
-|Web App|Stay Away Creepy Crawlers|25 pts|
+|Web App|[Stay Away Creepy Crawlers](Web/StayAwayCreepyCrawlers))|25 pts|
 |Web App|Source of All Evil|25 pts|
 |Web App|Can't find it|25 pts|
 |Web App|Show me what you got|25 pts|
