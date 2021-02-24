@@ -13,4 +13,5 @@ john htpasswd
 admin:alesh16
  ```
 http://167.71.246.232/admin/
+
 ```flag{cracked_the_password} ```
