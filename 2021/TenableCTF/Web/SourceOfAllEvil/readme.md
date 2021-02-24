@@ -2,6 +2,7 @@
 
 ### Tags: web
 
+View Page Source
 ```
 <html>
 <head>
