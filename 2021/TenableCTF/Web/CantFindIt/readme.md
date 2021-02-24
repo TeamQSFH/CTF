@@ -4,4 +4,8 @@
 
 Generate a 404 error
 
-![concatenation method](cantfindit-flag.png)
+```
+WTF - Page not found!
+
+btw - flag{404_oh_no} 
+```
