@@ -32,7 +32,7 @@
 |Forensics|Fix Me|100 pts|
 |Misc|[Esoteric](Misc/Esoteric)|25 pts|
 |Misc|Reggie McRegex|25 pts|
-|Misc|Quit messing with my flags|25 pts|
+|Misc|[Quit messing with my flags](Misc/QuitMessingWithMyFlags)|25 pts|
 |Misc|Find the encoding|50 pts|
 |Misc|One Byte at a Time|50 pts|
 |Misc|Not JSON|75 pts|
