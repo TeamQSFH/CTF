@@ -65,7 +65,7 @@
 |Tenable|Supercession|250 pts|
 |Vidya|Play me|200 pts|
 |Web App|[Stay Away Creepy Crawlers](Web/StayAwayCreepyCrawlers)|25 pts|
-|Web App|[Source of All Evil](Web/SourceofAllEvil)|25 pts|
+|Web App|[Source of All Evil](Web/SourceOfAllEvil)|25 pts|
 |Web App|[Can't find it](Web/CantFindIt)|25 pts|
 |Web App|[Show me what you got](Web/ShowMeWhatYouGot)|25 pts|
 |Web App|[Certificate of Authenticity](CertificateOfAuthenticity)|25 pts|
