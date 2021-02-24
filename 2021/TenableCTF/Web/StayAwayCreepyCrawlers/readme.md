@@ -2,4 +2,10 @@
 
 ### Tags: web
 
-![concatenation method](stayaway-flag.png)
+https://167.71.246.232/robots.txt
+
+```
+User-agent: *
+Disallow: /admin/
+# flag{mr_roboto}
+```
