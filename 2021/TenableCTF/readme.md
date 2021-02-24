@@ -68,7 +68,7 @@
 |Web App|[Source of All Evil](Web/SourceOfAllEvil)|25 pts|
 |Web App|[Can't find it](Web/CantFindIt)|25 pts|
 |Web App|[Show me what you got](Web/ShowMeWhatYouGot)|25 pts|
-|Web App|[Certificate of Authenticity](CertificateOfAuthenticity)|25 pts|
+|Web App|[Certificate of Authenticity](Web/CertificateOfAuthenticity)|25 pts|
 |Web App|[Headers for you inspiration](Web/HeadersForYouInspiration)|25 pts|
 |Web App|Spring MVC 1-2-3-4-5-6-7-8|25 to 75 pts|
 |Web App|[Ripper Doc](Web/RipperDoc)|50 pts|
