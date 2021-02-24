@@ -30,7 +30,7 @@
 |Forensics|H4ck3r_m4n exp0sed! 1-2-3|25 to 50 pts|
 |Forensics|Cat Taps|100 pts|
 |Forensics|Fix Me|100 pts|
-|Misc|Esoteric|25 pts|
+|Misc|[Esoteric](Misc/Esoteric)|25 pts|
 |Misc|Reggie McRegex|25 pts|
 |Misc|Quit messing with my flags|25 pts|
 |Misc|Find the encoding|50 pts|
@@ -49,7 +49,7 @@
 |Reverse Engineering|Pwntown 1-2-3-4|200 pts|
 |Reverse Engineering|Hacker Manifesto|250 pts|
 |Stego|Weird Transmission|175 pts|
-|Stego|Easy Stego|25 pts|
+|Stego|[Easy Stego](Stego/EasyStego)|25 pts|
 |Stego|Hackerman|25 pts|
 |Stego|Funny Sound|75 pts|
 |Stego|Music|100 pts|
@@ -65,13 +65,13 @@
 |Tenable|Supercession|250 pts|
 |Vidya|Play me|200 pts|
 |Web App|[Stay Away Creepy Crawlers](Web/StayAwayCreepyCrawlers)|25 pts|
-|Web App|Source of All Evil|25 pts|
-|Web App|Can't find it|25 pts|
-|Web App|Show me what you got|25 pts|
-|Web App|Certificate of Authenticity|25 pts|
-|Web App|Headers for you inspiration|25 pts|
+|Web App|[Source of All Evil](Web/SourceofAllEvil)|25 pts|
+|Web App|[Can't find it](Web/CantFindIt)|25 pts|
+|Web App|[Show me what you got](Web/ShowMeWhatYouGot)|25 pts|
+|Web App|[Certificate of Authenticity](CertificateOfAuthenticity)|25 pts|
+|Web App|[Headers for you inspiration](Web/HeadersForYouInspiration)|25 pts|
 |Web App|Spring MVC 1-2-3-4-5-6-7-8|25 to 75 pts|
-|Web App|Ripper Doc|50 pts|
+|Web App|[Ripper Doc](Web/RipperDoc)|50 pts|
 |Web App|Protected Directory|50 pts|
 |Web App|Send A Letter|50 pts|
 |Web App|Follow The Rabbit Hole|100 pts|
