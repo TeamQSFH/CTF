@@ -2,6 +2,7 @@
 
 https://167.71.246.232/images/
 
+![concatenation method](showmewhatyougot.png)
 
 https://167.71.246.232/images/aljdi3sd.txt
 
