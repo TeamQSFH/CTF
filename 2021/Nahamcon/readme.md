@@ -3,7 +3,7 @@
 
 # Challenges
 - Warmups
-  - Eighth Circle
+  - [Eighth Circle](warmups/EighthCircle)
   - Car Keys
   - Veebee
   - Chicken Wings
