@@ -4,13 +4,13 @@
 # Challenges
 - Warmups
   - [Eighth Circle](warmups/EighthCircle)
-  - Car Keys
-  - Veebee
-  - Chicken Wings
-  - Buzz
-  - Pollex
-  - Shoelaces
-  - esab64
+  - [Car Keys](warmups/CarKeys)
+  - [Veebee](warmups/Veebee)
+  - [Chicken Wings](warmups/ChickenWings)
+  - [Buzz](warmups/Buzz)
+  - [Pollex](warmups/Pollex)
+  - [Shoelaces](warmups/Shoelaces)
+  - [esab64](warmups/esab64)
 
 - Cryptography
   - Treasure
