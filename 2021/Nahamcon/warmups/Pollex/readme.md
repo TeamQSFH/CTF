@@ -1,5 +1,7 @@
 # Pollex
 
+Tags: _Thumbnail_ _exiftool_
+
 ## Challenge
 >Author: @JohnHammond#6971
 >
