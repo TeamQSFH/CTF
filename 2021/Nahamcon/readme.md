@@ -13,7 +13,7 @@
   - [esab64](warmups/esab64)
 
 - Cryptography
-  - [Treasure](crypto/Treasure)
+  - [Treasure](Crypto/Treasure)
   - eaxy
   - Dice Roll
   - Elliptical
