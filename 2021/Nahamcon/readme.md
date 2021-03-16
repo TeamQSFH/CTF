@@ -42,8 +42,8 @@
   - AgentTester V2
  
 - Mobile
-  - Andra
-  - Resourceful
+  - [Andra](Mobile/Andra)
+  - [Resourceful](Mobile/Resourceful)
   - Microscopium
   - Ferris Wheel
 
