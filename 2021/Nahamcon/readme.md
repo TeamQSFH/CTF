@@ -79,7 +79,7 @@
   - Rotten Loggin
   - [Internal](Mission/Internal)
   - [Leo](Mission/Leo)
-  - Orion
+  - [Orion](Mission/Orion)
   - Lyra
   - Gus
   - Hercules
