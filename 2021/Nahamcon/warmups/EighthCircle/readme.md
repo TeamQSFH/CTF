@@ -1,5 +1,6 @@
 # Eighth Circle
 
+Tags: _Malboge_
 
 ## Challenge
 >Author: @JohnHammond#6971
