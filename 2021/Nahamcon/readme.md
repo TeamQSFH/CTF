@@ -58,8 +58,8 @@
   - IoT Itchy & Scratchy SecureIoT Co
 
 - Miscellaneous
-  - Abyss
-  - Alphabet Soup
+  - [Abyss](Misc/Abyss)
+  - [Alphabet Soup](Misc/AlphabetSoup)
   - Zenith
   - Prison Break
   - Gone Batty
