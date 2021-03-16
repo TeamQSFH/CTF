@@ -7,8 +7,3 @@
 >
 
 ## Solving
-https://www.dcode.fr/book-cipher
-
-![flag](flag.png)
-
-`FLAG{62D869C6B886DAC2DD743086E451F76B}`
