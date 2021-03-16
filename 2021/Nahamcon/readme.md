@@ -49,8 +49,8 @@
 
 - Forensics
   - Parseltongue
-  - Henpeck
-  - Typewriter
+  - [Henpeck](Forensics/Henpeck)
+  - [Typewriter](Forensics/Typewriter)
 
 - IoT
   - IoT Itchy
