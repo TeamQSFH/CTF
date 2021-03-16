@@ -50,7 +50,9 @@ Proto Recv-Q Send-Q Local Address           Foreign Address         State       
 tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -               
 tcp        0      0 0.0.0.0:3306            0.0.0.0:*               LISTEN      -               
 tcp6       0      0 :::22                   :::*                    LISTEN      -
+```
 
+```
 orion@internal-d6fa40a2436093de-7f7c689f69-l4scs:~$ mysql -u root
 
 mysql> show databases;
