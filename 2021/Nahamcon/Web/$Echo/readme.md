@@ -19,3 +19,5 @@
 `< ../flag.txt`
 ```
 ![flag](flag.png)
+
+`flag{1beadaf44586ea4aba2ea9ac00c5b6d91}`
