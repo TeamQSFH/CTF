@@ -7,3 +7,15 @@
 >
 
 ## Solving
+
+```
+`ls ../`
+```
+
+![ls](ls.png)
+
+
+```
+`< ../flag.txt`
+```
+![flag](flag.png)
