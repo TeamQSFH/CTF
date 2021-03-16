@@ -31,12 +31,12 @@
 
 - Web
   - [$Echo](Web/$Echo)
-  - Homeward Bound
+  - [Homeward Bound](Web/HomewardBound)
   - Imposter
   - Cereal and Milk
-  - Bad Blog
-  - AgentTester
-  - Asserted
+  - [Bad Blog](Web/BadBlog)
+  - [AgentTester](Web/AgentTester)
+  - [Asserted](Web/Asserted)
   - Workerbee
   - Borg
   - AgentTester V2
