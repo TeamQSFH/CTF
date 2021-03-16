@@ -2,7 +2,7 @@
 ![ranking](ranking.png)
 
 # Challenges
-- Warmups
+- <b>Warmups</b>
   - [Eighth Circle](warmups/EighthCircle)
   - [Car Keys](warmups/CarKeys)
   - [Veebee](warmups/Veebee)
@@ -12,13 +12,13 @@
   - [Shoelaces](warmups/Shoelaces)
   - [esab64](warmups/esab64)
 
-- Cryptography
+- <b>Cryptography</b>
   - [Treasure](Crypto/Treasure)
   - [eaxy](Crypto/eaxy)
   - [Dice Roll](Crypto/DiceRoll)
   - [Elliptical](Crypto/Elliptical)
 
-- Binary Exploitation
+- <b>Binary Exploitation</b>
   - [Ret2basic](BinaryExploitation/Ret2basic)
   - [The List](BinaryExploitation/TheList)
   - [Rock Paper Scissors](BinaryExploitation/RockPaperScissors)
@@ -29,7 +29,7 @@
   - [Smol](BinaryExploitation/Smol)
   - [w(r)ite(ead)](BinaryExploitation/writeead)
 
-- Web
+- <b>Web</b>
   - [$Echo](Web/$Echo)
   - [Homeward Bound](Web/HomewardBound)
   - Imposter
@@ -41,34 +41,34 @@
   - Borg
   - AgentTester V2
  
-- Mobile
+- <b>Mobile</b>
   - [Andra](Mobile/Andra)
   - [Resourceful](Mobile/Resourceful)
   - Microscopium
   - Ferris Wheel
 
-- Forensics
+- <b>Forensics</b>
   - Parseltongue
   - [Henpeck](Forensics/Henpeck)
   - [Typewriter](Forensics/Typewriter)
 
-- IoT
+- <b>IoT</b>
   - [IoT Itchy](IoT/IoTItchy)
   - YAHO MIPS Edition
   - IoT Itchy & Scratchy SecureIoT Co
 
-- Miscellaneous
+- <b>Miscellaneous</b>
   - [Abyss](Misc/Abyss)
   - [Alphabet Soup](Misc/AlphabetSoup)
   - Zenith
   - Prison Break
   - Gone Batty
 
-- Scripting
+- <b>Scripting</b>
   - DDR
   - ngrocket
 
-- Mission
+- <b>Mission</b>
   - [Backdoor](Mission/Backdoor)
   - [Hydraulic](Mission/Hydraulic)
   - [Bionic](Mission/Bionic)
