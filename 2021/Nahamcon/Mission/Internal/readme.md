@@ -43,6 +43,14 @@ drwx------   1 root root 4.0K Mar 11 05:20 root
 drwxr-xr-x   1 root root 4.0K Mar 16 12:08 run
 -rwxr-xr-x   1 root root  549 Feb 15  2016 run.sh
 
+orion@internal-d6fa40a2436093de-7f7c689f69-l4scs:/$ netstat -tlnp
+(No info could be read for "-p": geteuid()=1000 but you should be root.)
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      -               
+tcp        0      0 0.0.0.0:3306            0.0.0.0:*               LISTEN      -               
+tcp6       0      0 :::22                   :::*                    LISTEN      -
+
 orion@internal-d6fa40a2436093de-7f7c689f69-l4scs:~$ mysql -u root
 
 mysql> show databases;
