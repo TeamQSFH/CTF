@@ -10,7 +10,7 @@
 >Attachments:  shoelaces.jpg
 >
 
-![challenge](challenge.png)
+![challenge](shoelaces.png)
 
 ## Solving
 
