@@ -78,7 +78,7 @@
   - Sensible
   - Rotten Loggin
   - [Internal](Mission/Internal)
-  - Leo
+  - [Leo](Mission/Leo)
   - Orion
   - Lyra
   - Gus
