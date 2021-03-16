@@ -10,6 +10,8 @@
 >
 
 ## Solving
+https://www.systutorials.com/docs/linux/man/1-compress/
+
 
 ```
 $ file buzz
