@@ -77,7 +77,7 @@
   - Degrade
   - Sensible
   - Rotten Loggin
-  - Internal
+  - [Internal](Mission/Internal)
   - Leo
   - Orion
   - Lyra
