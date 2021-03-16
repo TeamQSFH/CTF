@@ -14,9 +14,9 @@
 
 - Cryptography
   - [Treasure](Crypto/Treasure)
-  - eaxy
-  - Dice Roll
-  - Elliptical
+  - [eaxy](Crypto/eaxy)
+  - [Dice Roll](Crypto/DiceRoll)
+  - [Elliptical](Crypto/Elliptical)
 
 - Binary Exploitation
   - Ret2basic
