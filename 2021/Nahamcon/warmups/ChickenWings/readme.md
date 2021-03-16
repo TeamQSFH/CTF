@@ -12,6 +12,6 @@
 ## Solving
 https://lingojam.com/WingDing
 
-![flag](flag.png
+![flag](flag.png)
 
 `flag{e0791ce68f718188c0378b1c0a3bdc9e}`
