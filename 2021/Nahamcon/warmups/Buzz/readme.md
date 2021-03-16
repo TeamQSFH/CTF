@@ -1,5 +1,6 @@
 # Buzz
 
+Tags: _compress'd data_
 ## Challenge
 >Author: @JohnHammond#6971
 >
