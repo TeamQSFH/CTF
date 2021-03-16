@@ -13,7 +13,7 @@
   - [esab64](warmups/esab64)
 
 - Cryptography
-  - Treasure
+  - [Treasure](crypto/Treasure)
   - eaxy
   - Dice Roll
   - Elliptical
@@ -30,7 +30,7 @@
   - w(r)ite(ead)
 
 - Web
-  - $Echo
+  - [$Echo](Web/Echo)
   - Homeward Bound
   - Imposter
   - Cereal and Milk
