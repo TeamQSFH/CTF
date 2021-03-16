@@ -76,7 +76,7 @@
   - Banking on It
   - Degrade
   - Sensible
-  - Rotten Loggin
+  - [Rotten Loggin](Mission/RottenLogging)
   - [Internal](Mission/Internal)
   - [Leo](Mission/Leo)
   - [Orion](Mission/Orion)
