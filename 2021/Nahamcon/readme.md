@@ -71,8 +71,8 @@
 - Mission
   - [Backdoor](Mission/Backdoor)
   - [Hydraulic](Mission/Hydraulic)
-  - Bionic
-  - Meet The Team
+  - [Bionic](Mission/Bionic)
+  - [Meet The Team](Mission/MeetTheTeam)
   - Banking on It
   - Degrade
   - Sensible
