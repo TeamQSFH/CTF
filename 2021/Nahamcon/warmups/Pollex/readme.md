@@ -14,6 +14,7 @@
 
 ## Solving
 https://exiftool.org/examples.html
+
 `exiftool -b -ThumbnailImage pollex > output.jpg`
 
 ![flag](flag.png)
