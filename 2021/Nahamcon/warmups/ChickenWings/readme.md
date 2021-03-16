@@ -1,5 +1,7 @@
 # Chicken Wings
 
+Tags: _WingDing_
+
 ## Challenge
 >Author: @JohnHammond#6971
 >
