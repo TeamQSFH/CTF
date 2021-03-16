@@ -53,7 +53,7 @@
   - [Typewriter](Forensics/Typewriter)
 
 - IoT
-  - IoT Itchy
+  - [IoT Itchy](IoT/IoTItchy)
   - YAHO MIPS Edition
   - IoT Itchy & Scratchy SecureIoT Co
 
