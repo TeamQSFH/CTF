@@ -41,7 +41,7 @@
   - Borg
   - AgentTester V2
  
- - Mobile
+- Mobile
   - Andra
   - Resourceful
   - Microscopium
