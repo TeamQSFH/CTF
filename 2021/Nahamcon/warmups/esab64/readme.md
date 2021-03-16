@@ -1,5 +1,7 @@
 # esab64
 
+Tags: _base64_
+
 ## Challenge
 >Author: @JohnHammond#6971
 >
