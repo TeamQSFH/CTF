@@ -19,15 +19,15 @@
   - [Elliptical](Crypto/Elliptical)
 
 - Binary Exploitation
-  - Ret2basic
-  - The List
-  - Rock Paper Scissors
-  - Some Really Ordinary Program
-  - Sort It!
-  - Empty Read
-  - Meddle
-  - Smol
-  - w(r)ite(ead)
+  - [Ret2basic](BinaryExploitation/Ret2basic)
+  - [The List](BinaryExploitation/TheList)
+  - [Rock Paper Scissors](BinaryExploitation/RockPaperScissors)
+  - [Some Really Ordinary Program](BinaryExploitation/SomeReallyOrdinaryProgram)
+  - [Sort It!](BinaryExploitation/SortIt)
+  - [Empty Read](BinaryExploitation/EmptyRead)
+  - [Meddle](BinaryExploitation/Meddle)
+  - [Smol](BinaryExploitation/Smol)
+  - [w(r)ite(ead)](BinaryExploitation/writeead)
 
 - Web
   - [$Echo](Web/$Echo)
