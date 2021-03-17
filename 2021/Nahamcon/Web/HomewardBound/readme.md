@@ -33,6 +33,9 @@ Cache-Control: max-age=0
 
 
 ```
+
+Server response:
+
 ```
 HTTP/1.1 200 OK
 Date: Wed, 17 Mar 2021 12:02:56 GMT
@@ -63,8 +66,20 @@ Cache-Control: max-age=0
 
 ```
 
-`Welcome! Your internal access key is: flag{26080a2216e95746ec3e932002b9baa4}`
+Server response:
+```
+HTTP/1.1 200 OK
+Date: Wed, 17 Mar 2021 12:15:46 GMT
+Server: Apache/2.4.25 (Debian)
+X-Powered-By: PHP/7.0.33
+Vary: Accept-Encoding
+Content-Length: 1285
+Connection: close
+Content-Type: text/html; charset=UTF-8
 
+
+Welcome! Your internal access key is: flag{26080a2216e95746ec3e932002b9baa4}
+```
 
 `flag{26080a2216e95746ec3e932002b9baa4}`
 
