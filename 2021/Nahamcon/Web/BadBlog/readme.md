@@ -8,6 +8,11 @@ Tags: _sqlite3_ _sqli_
 >
 >We just added analytics to our blogging website. Check them out!
 >
+>Press the Start button on the top-right to begin this challenge.
+>
+>Connect with:
+>
+>• http://challenge.nahamcon.com:32225
 
 ## Solving
 
