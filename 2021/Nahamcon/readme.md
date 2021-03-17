@@ -69,20 +69,42 @@
   - ngrocket
 
 - <b>Mission</b>
-  - [Backdoor](Mission/Backdoor)
-  - [Hydraulic](Mission/Hydraulic)
-  - [Bionic](Mission/Bionic)
-  - [Meet The Team](Mission/MeetTheTeam)
-  - Banking on It
-  - Degrade
-  - Sensible
-  - [Rotten Logging](Mission/RottenLogging)
-  - [Internal](Mission/Internal)
-  - [Leo](Mission/Leo)
-  - [Orion](Mission/Orion)
-  - Lyra
-  - Gus
-  - Hercules
-  - Centaurus
-  - Dirty Bird
-  - FINAL Mission Challenge
+
+- [Bionic](Mission/Bionic)
+- [Meet The Team](Mission/MeetTheTeam)
+ - Track 1
+    - [Leo](Mission/Leo)
+    - Sensible
+    - Persopnnel
+    - Remote
+    - Procastination
+ 
+ - Track 2
+    - Hercules
+    - Degrade
+    - Read The Docs
+    - Unbearable
+    - Jason
+ 
+  - Track 3
+    - [Orion](Mission/Orion)
+    - [Internal](Mission/Internal)
+    - [Rotten Logging](Mission/RottenLogging)
+    - [Backdoor](Mission/Backdoor)
+    - Dirty Bird
+
+  - Track 4
+    - Gus
+    - Banking on It
+    - Cartesian
+    - Conversations
+    - Two For One
+
+  - Track 5
+    - Lyra
+    - [Hydraulic](Mission/Hydraulic)
+    - Centaurus
+    - NASCAR
+    - Fight Club
+
+- FINAL Mission Challenge
