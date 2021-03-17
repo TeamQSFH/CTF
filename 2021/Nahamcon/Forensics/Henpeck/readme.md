@@ -12,6 +12,25 @@ Tags: _Wireshark_
 >
 >Attachments:  henpeck.pcap
 
+## Wireshark
+
+`((usb.transfer_type == 0x01) && (frame.len == 72)) && !(usb.capdata == 00:00:00:00:00:00:00:00)`
+
+![wireshark](wireshark.png)
+
+Export as CSV  (leftdata.csv)
+
+`File > Export Packet Dissections > as CSV...`
+
+## Filtering
+
+### CUT method
+
+cat leftdata | cut -d “,” -f 7 | cut -d “\”” -f 2 | grep -vE “Leftover Capture Data” > hex.txt
+
+### AWK method
+
+cat leftdata.csv |awk -F "," '{print$7}'|awk -F "\"" '{print$2}' |grep -vE "Leftover Capture Data" > hex.txt
 
 ## Solving
 
