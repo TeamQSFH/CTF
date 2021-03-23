@@ -11,14 +11,14 @@ Tags: _base64_
 >Attachments:  esab64
 >
 
-```
+```bash
 $ cat esab64
 mxWYntnZiVjMxEjY0kDOhZWZ4cjYxIGZwQmY2ATMxEzNlFjNl13X
 ```
 
 ## Solving
 
-```
+```bash
 $ python3 solve.py
 b'flag{fb5211b498afe87b1bd0db601117e16e}_'
 ```
