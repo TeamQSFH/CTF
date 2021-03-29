@@ -35,7 +35,7 @@
 
 - Web
   - heim
-  - Hermit Part 1
-  - Hermit Part 2
-  - PikCha
+  - [Hermit Part 1](web/HermitPart1)
+  - [Hermit Part 2](web/HermitPart2)
+  - [PikCha](web/PikCha)
   - PikCha2
