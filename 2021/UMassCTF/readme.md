@@ -11,7 +11,7 @@
 - Forensics
   - chicken
   - easy as 123
-  - notes
+  - [notes](Forensics/notes)
 
 - Misc
   - [Discord](Misc/Discord)
