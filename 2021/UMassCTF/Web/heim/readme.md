@@ -128,7 +128,7 @@ Content-Length: 77
 ```
 
 ## Changing user for odin
-[odinjwt](odinjwt.png)
+![odinjwt](odinjwt.png)
 
 ```
 arottenbranchwillbefoundineverytree
