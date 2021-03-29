@@ -9,3 +9,10 @@
 >## Hint
 >How do you know a file is an image?
 
+## Uploading a web shell
+![webshell](upload.png)
+
+## cat flag
+![flag](flag.png)
+
+`UMASS{a_picture_paints_a_thousand_shells}`
