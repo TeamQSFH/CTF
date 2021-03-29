@@ -19,7 +19,6 @@ http://104.197.195.221:8081/auth?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1Ni
 jwt_secret_key=`arottenbranchwillbefoundineverytree`
 
 
-![ccf40889fe8a55c00b4c1e55a29b397b.png](:/be6cb79cb4064ed58f6fada952649dda)
 
 
 
