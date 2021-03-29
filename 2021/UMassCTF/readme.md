@@ -1,5 +1,5 @@
 # UMass CTF 2021
-![rank](ranking.png)
+<p align="center"><img src="ranking.png"></p
 
 # Challenges
 
