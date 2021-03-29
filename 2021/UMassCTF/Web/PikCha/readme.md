@@ -4,7 +4,7 @@
 >
 >Created by Soul#8230
 
-The server doesn't valide the input.
+The server doesn't valid the input.
 ## python script
 ```python3
 #!/usr/bin/env python3
