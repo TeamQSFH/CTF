@@ -34,7 +34,7 @@
   - scarymaze
 
 - Web
-  - heim
+  - [heim](Web/heim)
   - [Hermit Part 1](Web/HermitPart1)
   - [Hermit Part 2](Web/HermitPart2)
   - [PikCha](Web/PikCha)
