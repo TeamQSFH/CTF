@@ -28,11 +28,6 @@ REDACTEDREDACTEDREDACTEDREDACTEDREDACTEDREDACTED
 
 
 ```bash
-$ cat id_ed25519.pub 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEnpZMOpI29kra1VLybw+iMSXyAVxh0q146WxMVrX7ZT hermit@local
-```
-
-```bash
 $ ssh -i id_ed25519 hermit@104.197.195.221 -p 8087
 Linux 162d488eac13 4.19.0-16-cloud-amd64 #1 SMP Debian 4.19.181-1 (2021-03-19) x86_64
 
