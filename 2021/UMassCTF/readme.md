@@ -15,8 +15,8 @@
 
 - Misc
   - Discord
-  - erkpat
-  - Jeopardy
+  - [erkpat](Misc/erkpat)
+  - [Jeopardy](Misc/Jeopardy)
   - Scan Me
 
 - Pwn
