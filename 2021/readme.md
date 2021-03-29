@@ -8,4 +8,4 @@
 |Feb 05|DiceCTF|391|108 pts|
 |Feb 18|[Tenable CTF](Tenable)|110|2 975 pts
 |Mar 12|[Nahamcon CTF](Nahamcon)|39|10 517 pts| 
-|Mar 26|[UMass CTF](UMassCTF)|N/A|N/A|
+|Mar 26|[UMass CTF](UMassCTF)|36|2 939 pts|
