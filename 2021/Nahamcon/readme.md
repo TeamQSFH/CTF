@@ -1,5 +1,5 @@
 # Nahamcon 
-![ranking](ranking.png)
+<p align="center"><img src="ranking.png"></p>
 
 # Challenges
 - <b>Warmups</b>
