@@ -14,7 +14,7 @@
   - notes
 
 - Misc
-  - Discord
+  - [Discord](Misc/Discord)
   - [erkpat](Misc/erkpat)
   - [Jeopardy](Misc/Jeopardy)
   - Scan Me
