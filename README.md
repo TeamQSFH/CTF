@@ -8,3 +8,4 @@
 - gverre
 - PainfulByte
 - RiderDan
+- Seneque
